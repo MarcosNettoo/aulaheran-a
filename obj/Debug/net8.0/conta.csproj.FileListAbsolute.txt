@@ -1,0 +1,14 @@
+C:\Users\lindo\Downloads\conta\bin\Debug\net8.0\conta.exe
+C:\Users\lindo\Downloads\conta\bin\Debug\net8.0\conta.deps.json
+C:\Users\lindo\Downloads\conta\bin\Debug\net8.0\conta.runtimeconfig.json
+C:\Users\lindo\Downloads\conta\bin\Debug\net8.0\conta.dll
+C:\Users\lindo\Downloads\conta\bin\Debug\net8.0\conta.pdb
+C:\Users\lindo\Downloads\conta\obj\Debug\net8.0\conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lindo\Downloads\conta\obj\Debug\net8.0\conta.AssemblyInfoInputs.cache
+C:\Users\lindo\Downloads\conta\obj\Debug\net8.0\conta.AssemblyInfo.cs
+C:\Users\lindo\Downloads\conta\obj\Debug\net8.0\conta.csproj.CoreCompileInputs.cache
+C:\Users\lindo\Downloads\conta\obj\Debug\net8.0\conta.dll
+C:\Users\lindo\Downloads\conta\obj\Debug\net8.0\refint\conta.dll
+C:\Users\lindo\Downloads\conta\obj\Debug\net8.0\conta.pdb
+C:\Users\lindo\Downloads\conta\obj\Debug\net8.0\conta.genruntimeconfig.cache
+C:\Users\lindo\Downloads\conta\obj\Debug\net8.0\ref\conta.dll
